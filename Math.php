@@ -27,5 +27,5 @@ class Math {
 		$sum = $num1 - $num2;
 		return $sum;
 	}
-	
+
 }
