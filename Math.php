@@ -19,18 +19,22 @@ class Math {
 	 * @param float $b
 	 * @return float
 	 */
+
+	 // this is a function for adding
 	public static function add($num1, $num2){
 		$sum = $num1 + $num2;
 		return $sum;
 	}
+
+	// this is a function for sub'ing
 	public static funtion subtract($num1, $num2){
 		$sum = $num1 - $num2;
 		return $sum;
 	}
 
+// this does nothing
 	public static function doNothing($num1, $num2) {
 	    return "it's ya boi";
     }
-	
-}
 
+}
