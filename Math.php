@@ -5,7 +5,7 @@
  * @author		ACME Development
  * @version		1.0
  */
- 
+
 class Math {
 
 	// some useless constants
@@ -20,7 +20,7 @@ class Math {
 	 * @return float
 	 */
 	public static function add($num1, $num2){
-		$sum = $num1 * $num2;
+		$sum = $num1 + $num2;
 		return $sum;
 	}
 	public static funtion subtract($num1, $num2){
