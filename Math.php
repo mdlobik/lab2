@@ -28,4 +28,9 @@ class Math {
 		return $sum;
 	}
 
+	public static function doNothing($num1, $num2) {
+	    return "it's ya boi";
+    }
+	
 }
+
