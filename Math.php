@@ -70,4 +70,8 @@ public static function bruh($num1) {
 public static function Jake($num1, $num2) {
 return 'Jake';
 }
+
+public static function bruh($num1) {
+	    return 'bruh';
+}
 }
