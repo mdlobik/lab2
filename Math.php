@@ -37,4 +37,8 @@ class Math {
 	    return "it's ya boi";
     }
 
+		public static function cool($num1, $num2) {
+		    return "this is a cool function";
+	    }
+
 }
