@@ -27,7 +27,7 @@ class Math {
 	}
 
 	// this is a function for sub'ing
-	public static funtion subtract($num1, $num2){
+	public static function subtract($num1, $num2){
 		$sum = $num1 - $num2;
 		return $sum;
 	}
@@ -43,7 +43,7 @@ class Math {
 
 
 		// this is a function for multipling
-		public static funtion multiply($num1, $num2){
+		public static function multiply($num1, $num2){
 			$sum = $num1 * $num2;
 			return $sum;
 		}
