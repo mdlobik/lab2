@@ -38,7 +38,8 @@ class Math {
     }
 
 		public static function cool($num1, $num2) {
-		    return "this is a cool function";
+		    return "this is a cool function!";
 	    }
+
 
 }
