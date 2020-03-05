@@ -58,10 +58,13 @@ class Math {
 	    return 'sam';
 
 			// this is great!
+<<<<<<< HEAD
 }
 
 public static function bruh($num1) {
 	    return 'bruh';
+=======
+>>>>>>> Added Comments
 }
 
 public static function Jake($num1, $num2) {
