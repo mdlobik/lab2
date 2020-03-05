@@ -48,4 +48,9 @@ class Math {
 			return $sum;
 		}
 
+		public static function cool($num1, $num2) {
+		    return "this is a cool function!";
+	    }
+
+
 }
