@@ -55,4 +55,8 @@ class Math {
         public static function sam($num1, $num2) {
 	    return 'sam';
 }
+
+public static function bruh($num1) {
+	    return 'bruh';
+}
 }
