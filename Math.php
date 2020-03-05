@@ -63,4 +63,8 @@ class Math {
 public static function bruh($num1) {
 	    return 'bruh';
 }
+
+public static function Jake($num1, $num2) {
+return 'Jake';
+}
 }
