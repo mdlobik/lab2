@@ -31,6 +31,10 @@ class Math {
 		$sum = $num1 - $num2;
 		return $sum;
 	}
+	// this does even less
+	public static function doLiterallyNothing($num1, $num2) {
+		return "I do literally nothing.";
+	}
 
 // this does nothing
 	public static function doNothing($num1, $num2) {
