@@ -52,5 +52,7 @@ class Math {
 		    return "this is a cool function!";
 	    }
 
-
+        public static function sam($num1, $num2) {
+	    return 'sam';
+}
 }
