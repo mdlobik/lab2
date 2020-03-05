@@ -37,4 +37,11 @@ class Math {
 	    return "it's ya boi";
     }
 
+
+		// this is a function for multipling
+		public static funtion multiply($num1, $num2){
+			$sum = $num1 * $num2;
+			return $sum;
+		}
+
 }
