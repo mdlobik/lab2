@@ -52,8 +52,12 @@ class Math {
 		    return "this is a cool function!";
 	    }
 
+			// this is super good!
+
         public static function sam($num1, $num2) {
 	    return 'sam';
+
+			// this is great!
 }
 
 public static function bruh($num1) {
