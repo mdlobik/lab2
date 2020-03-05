@@ -31,6 +31,11 @@ class Math {
 	public static function doNothing($num1, $num2) {
 	    return "it's ya boi";
     }
+
+    public static function doBarelyAnything($num1, $num2) {
+	    $sum = $num1 - $num2 + $num2 + 47;
+	    return $num1;
+}
 	
 }
 
